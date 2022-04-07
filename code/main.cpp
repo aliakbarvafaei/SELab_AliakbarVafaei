@@ -3,6 +3,8 @@ using namespace std;
 //  edit file
 //  edit file 2
 
+// edit by mohammad hosein...
+
 void swap(int *x,int *y)
 {
     int *temp=new int;

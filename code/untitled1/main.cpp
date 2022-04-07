@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//  edit file
 void swap(int *x,int *y)
 {
     int *temp=new int;

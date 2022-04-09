@@ -5,6 +5,8 @@ using namespace std;
 
 // edit by mohammadhosein...
 
+// edit2 by mohammadhosein... 
+
 void swap(int *x,int *y)
 {
     int *temp=new int;
